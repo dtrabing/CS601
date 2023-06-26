@@ -5,7 +5,7 @@ All assignments completed have been uploaded here as well as the final project f
 
 ## Final Project
 
-###Project Proposal:
+### Project Proposal:
 
 For the director of a small speech and occupational therapy clinic, we would like to create an application that leverages the JDBC API to schedule therapy appointments for patients. The application needs to store all members with their name and contact information, as well as store the therapists information, including their name and specialization. The application will also need to store all reserved appointments. The application will need to be able to book an appointment for a patient and therapist, and ensure that the appointment does not overlap with any previous appointments for either patient or therapist. 
 
